@@ -1,0 +1,39 @@
+.container {
+    background: rgba(70, 87, 67, 0.5);
+  }
+
+.text-center {
+    font-size: 50px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.kontol {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.telek {
+    background: rgba(48, 48, 48, 0.575);
+}
+
+.bgitulah {
+    font-size: 35px;
+}
+
+.list {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+}
+
+.tae {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(75, 75, 75);
+}
+
+#gambar {
+    width: 50%;
+}
